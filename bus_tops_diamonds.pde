@@ -8,7 +8,7 @@ private static final color BACKGROUND_COLOR = #000000;
 private static final color DIAMOND_COLOR = #FF0000;
 
 private static final int NUM_FLOCKS = 3;
-private static final int FLOCK_SIZE = 50;
+private static final int FLOCK_SIZE = 40;
 
 
 ToxiclibsSupport gfx;
