@@ -16,6 +16,7 @@ ToxiclibsSupport gfx;
 // A collection of flocks of Diamonds.
 ArrayList<Flock3D> flocks;
 
+
 void setup() {
   size(WORLD_WIDTH, WORLD_HEIGHT);
   frameRate(8);
